@@ -1,7 +1,11 @@
-# machine-learning-course
-Machine learning Course
+# Machine Learning and Deep Learning Course
+This repository contains a topic list of Machine Learning and Deep Learning tutorials, articles and other resources.
 
+If you want to contribute to this repository (please do!!!), send me a pull request and an email (mauro.pelucchi @ gmail.com).
+Since I want these documents to be useful in the long run, please submit high quality materials or distintive researchs.
 
+# Topic list
+-- Recommending Music and the Audioscrobbler Data Set
 
 
 # MIT License
