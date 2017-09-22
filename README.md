@@ -4,6 +4,9 @@ This repository contains a topic list of Machine Learning and Deep Learning tuto
 If you want to contribute to this repository (please do!!!), send me a pull request and an email (mauro.pelucchi @ gmail.com).
 Since I want these documents to be useful in the long run, please submit high quality materials or distintive researchs.
 
+For any info please don't exit to contact me at mauro.pelucchi@gmail.com
+
+
 # Topic list
 - [Recommending Music and the Audioscrobbler Data Set](https://github.com/mauropelucchi/machine-learning-course/blob/master/collaborative-filtering/recommending_music.scala) 
 
