@@ -5,7 +5,7 @@ If you want to contribute to this repository (please do!!!), send me a pull requ
 Since I want these documents to be useful in the long run, please submit high quality materials or distintive researchs.
 
 # Topic list
-- Recommending Music and the Audioscrobbler Data Set
+- [a link] (https://github.com/mauropelucchi/machine-learning-course/blob/master/collaborative-filtering/recommending_music.scala) Recommending Music and the Audioscrobbler Data Set
 
 
 # MIT License
