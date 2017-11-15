@@ -9,7 +9,7 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 
 # Topic list
 - [Recommending Music and the Audioscrobbler Data Set](https://github.com/mauropelucchi/machine-learning-course/blob/master/collaborative-filtering/recommending_music.scala) 
--[Forest Cover type Data Set with Decision Trees and Random Forest](https://github.com/mauropelucchi/machine-learning-course/blob/master/random-forest/covtype_rdf.scala)
+- [Forest Cover type Data Set with Decision Trees and Random Forest](https://github.com/mauropelucchi/machine-learning-course/blob/master/random-forest/covtype_rdf.scala)
 
 # MIT License
 
