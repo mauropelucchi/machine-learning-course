@@ -11,7 +11,7 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 - [Recommending Music and the Audioscrobbler Data Set](https://github.com/mauropelucchi/machine-learning-course/blob/master/collaborative-filtering/recommending_music.scala) 
 - [Forest Cover type Data Set with Decision Trees and Random Forest](https://github.com/mauropelucchi/machine-learning-course/blob/master/random-forest/covtype_rdf.scala)
 - [KDD 1999 CUP - Anomaly Detection in Network Traffic by KMeans](https://github.com/mauropelucchi/machine-learning-course/blob/master/kmeans/kdd1999_kmeans.scala)
-- [Instacart Market Basket Analysis from Kaggle] (https://github.com/mauropelucchi/machine-learning-course/blob/master/xgboost/h2o_instacart.r)
+- [Instacart Market Basket Analysis from Kaggle](https://github.com/mauropelucchi/machine-learning-course/blob/master/xgboost/h2o_instacart.r)
 
 # MIT License
 
