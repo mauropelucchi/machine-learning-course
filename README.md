@@ -13,6 +13,7 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 - [KDD 1999 CUP - Anomaly Detection in Network Traffic by KMeans](https://github.com/mauropelucchi/machine-learning-course/blob/master/kmeans/kdd1999_kmeans.scala)
 - [Instacart Market Basket Analysis from Kaggle](https://github.com/mauropelucchi/machine-learning-course/blob/master/xgboost/h2o_instacart.r)
 - [A novel story from exploration analysis of toxic comments: train a Word2Vec model](https://github.com/mauropelucchi/machine-learning-course/blob/master/text-mining/h2o_toxic_exploration.r)
+-[GBM, GLM, Naive Bayes and Deep Learning for classify Toxic comments (H2O and R)](https://github.com/mauropelucchi/machine-learning-course/blob/master/text-mining/h2o_toxic_comments.r)
 
 # MIT License
 
