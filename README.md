@@ -19,7 +19,7 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 - [TensorFlow - Deep Learning on MNIST Dataset - CNN](https://github.com/mauropelucchi/machine-learning-course/tree/master/mnist)
 - [H2O KNN Clustering on Uber Dataset (Kaggle)](https://github.com/mauropelucchi/machine-learning-course/tree/master/kmeans_uber)
 - [SparkR Demo on Uber Dataset](https://github.com/mauropelucchi/machine-learning-course/tree/master/uber_dataset)
-
+- [Netatmo analysis with MongoDB Aggregate Pipeline and Spatial Function](https://github.com/mauropelucchi/machine-learning-course/tree/master/netatmo-dataset)
 
 # MIT License
 
