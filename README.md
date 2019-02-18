@@ -14,6 +14,12 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 - [Instacart Market Basket Analysis from Kaggle](https://github.com/mauropelucchi/machine-learning-course/blob/master/xgboost/h2o_instacart.r)
 - [A novel story from exploration analysis of toxic comments: train a Word2Vec model](https://github.com/mauropelucchi/machine-learning-course/blob/master/text-mining/h2o_toxic_exploration.r)
 - [GBM, GLM, Naive Bayes and Deep Learning for classify Toxic comments (H2O and R)](https://github.com/mauropelucchi/machine-learning-course/blob/master/text-mining/h2o_toxic_comments.r)
+- [GeoPySpark Demo (GeoTrellis + PySpark)](https://github.com/mauropelucchi/machine-learning-course/tree/master/geopyspark)
+- [GeoSpark Demo on Regione Lombardia Open Dataset - Meteo](https://github.com/mauropelucchi/machine-learning-course/tree/master/geospark)
+- [TensorFlow - Deep Learning on MNIST Dataset - CNN](https://github.com/mauropelucchi/machine-learning-course/tree/master/mnist)
+- [H2O KNN Clustering on Uber Dataset (Kaggle)(https://github.com/mauropelucchi/machine-learning-course/tree/master/kmeans_uber)
+- [SparkR Demo on Uber Dataset)(https://github.com/mauropelucchi/machine-learning-course/tree/master/uber_dataset)
+
 
 # MIT License
 
