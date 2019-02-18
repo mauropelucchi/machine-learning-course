@@ -77,7 +77,7 @@ data14$Borough <- clusters$predict
 
 # show the map
 library(ggmap)
-register_google(key = "AIzaSyCSgRr7VONYmKukTOuPXJoH51qXV9010z4")
+register_google(key = "****************************************")
 NYCMap <- get_map("New York", zoom = 10)
 ggmap(NYCMap) + geom_point(aes(x = Lon[], y = Lat[], colour = as.factor(Borough)),data = data14) +
   ggtitle("NYC Boroughs using KMean")
