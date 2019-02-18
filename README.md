@@ -17,7 +17,7 @@ For any info please don't exit to contact me at mauro.pelucchi@gmail.com
 - [GeoPySpark Demo (GeoTrellis + PySpark)](https://github.com/mauropelucchi/machine-learning-course/tree/master/geopyspark)
 - [GeoSpark Demo on Regione Lombardia Open Dataset - Meteo](https://github.com/mauropelucchi/machine-learning-course/tree/master/geospark)
 - [TensorFlow - Deep Learning on MNIST Dataset - CNN](https://github.com/mauropelucchi/machine-learning-course/tree/master/mnist)
-- [H2O KNN Clustering on Uber Dataset (Kaggle)(https://github.com/mauropelucchi/machine-learning-course/tree/master/kmeans_uber)
+- [H2O KNN Clustering on Uber Dataset (Kaggle)](https://github.com/mauropelucchi/machine-learning-course/tree/master/kmeans_uber)
 - [SparkR Demo on Uber Dataset)(https://github.com/mauropelucchi/machine-learning-course/tree/master/uber_dataset)
 
 
